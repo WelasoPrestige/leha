@@ -1,0 +1,30 @@
+D:\31П\баков абаев\МДК5.2.РКИС\wpf\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.AssemblyReference.cache
+D:\31П\баков абаев\МДК5.2.РКИС\wpf\WpfApp2\WpfApp2\obj\Debug\App.g.cs
+D:\31П\баков абаев\МДК5.2.РКИС\wpf\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+D:\31П\баков абаев\МДК5.2.РКИС\wpf\WpfApp2\WpfApp2\obj\Debug\MainWindow.g.cs
+D:\31П\баков абаев\МДК5.2.РКИС\wpf\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+D:\31П\баков абаев\МДК5.2.РКИС\wpf\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe.config
+D:\31П\баков абаев\МДК5.2.РКИС\wpf\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe
+D:\31П\баков абаев\МДК5.2.РКИС\wpf\WpfApp2\WpfApp2\bin\Debug\WpfApp2.pdb
+D:\31П\баков абаев\МДК5.2.РКИС\wpf\WpfApp2\WpfApp2\obj\Debug\MainWindow.baml
+D:\31П\баков абаев\МДК5.2.РКИС\wpf\WpfApp2\WpfApp2\obj\Debug\WpfApp2.g.resources
+D:\31П\баков абаев\МДК5.2.РКИС\wpf\WpfApp2\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+D:\31П\баков абаев\МДК5.2.РКИС\wpf\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+D:\31П\баков абаев\МДК5.2.РКИС\wpf\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+D:\31П\баков абаев\МДК5.2.РКИС\wpf\WpfApp2\WpfApp2\obj\Debug\WpfApp2.exe
+D:\31П\баков абаев\МДК5.2.РКИС\wpf\WpfApp2\WpfApp2\obj\Debug\WpfApp2.pdb
+D:\31П\5.2 Архипов Симакин Емельянов\wpf\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe.config
+D:\31П\5.2 Архипов Симакин Емельянов\wpf\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe
+D:\31П\5.2 Архипов Симакин Емельянов\wpf\WpfApp2\WpfApp2\bin\Debug\WpfApp2.pdb
+D:\31П\5.2 Архипов Симакин Емельянов\wpf\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.AssemblyReference.cache
+D:\31П\5.2 Архипов Симакин Емельянов\wpf\WpfApp2\WpfApp2\obj\Debug\MainWindow.g.cs
+D:\31П\5.2 Архипов Симакин Емельянов\wpf\WpfApp2\WpfApp2\obj\Debug\App.g.cs
+D:\31П\5.2 Архипов Симакин Емельянов\wpf\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+D:\31П\5.2 Архипов Симакин Емельянов\wpf\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+D:\31П\5.2 Архипов Симакин Емельянов\wpf\WpfApp2\WpfApp2\obj\Debug\MainWindow.baml
+D:\31П\5.2 Архипов Симакин Емельянов\wpf\WpfApp2\WpfApp2\obj\Debug\WpfApp2.g.resources
+D:\31П\5.2 Архипов Симакин Емельянов\wpf\WpfApp2\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+D:\31П\5.2 Архипов Симакин Емельянов\wpf\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+D:\31П\5.2 Архипов Симакин Емельянов\wpf\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+D:\31П\5.2 Архипов Симакин Емельянов\wpf\WpfApp2\WpfApp2\obj\Debug\WpfApp2.exe
+D:\31П\5.2 Архипов Симакин Емельянов\wpf\WpfApp2\WpfApp2\obj\Debug\WpfApp2.pdb
